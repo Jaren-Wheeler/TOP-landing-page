@@ -37,7 +37,7 @@ body {
 }
 
 .header-link {
-    color: #E5E7EB;
+    color: #bbbbbb;
     font-size: 18px;
     text-decoration: none;
 }
@@ -46,13 +46,22 @@ body {
 
 .about-section {
     background-color: #1F2937;
-    margin-top: 0;
+    padding: 16px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+}
+
+.about-text {
+    margin-left: 10%;
+    width: 30%;
 }
 
 .about-title {
     color: white;
+    font-size: 48px;
+}
 
+.about-text p {
+    color: #bbbbbb;
 }
