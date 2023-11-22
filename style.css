@@ -61,10 +61,13 @@ body {
 .about-title {
     color: white;
     font-size: 48px;
+    margin: 0;
 }
 
 .about-text p {
     color: #bbbbbb;
+    margin: 0;
+    padding: 8px 0 8px 0;
 }
 
 .photo-placeholder {
