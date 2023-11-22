@@ -37,7 +37,7 @@ body {
 }
 
 .header-link {
-    color: #bbbbbb;
+    color: darkgrey;
     font-size: 18px;
     text-decoration: none;
 }
@@ -65,7 +65,7 @@ body {
 }
 
 .about-text p {
-    color: #bbbbbb;
+    color: darkgrey;
     margin: 0;
     padding: 8px 0 8px 0;
 }
@@ -74,5 +74,9 @@ body {
     width: 36%;
     padding: 110px;
     margin-right: 10%;
-    background-color: #bbbbbb; 
+    background-color: darkgrey; 
+}
+
+.about-image {
+    color: white;
 }
