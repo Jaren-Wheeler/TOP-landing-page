@@ -67,7 +67,7 @@ body {
 .about-text p {
     color: darkgrey;
     margin: 0;
-    padding: 8px 0 8px 0;
+    padding: 12px 0 12px 0;
 }
 
 .photo-placeholder {
@@ -79,4 +79,14 @@ body {
 
 .about-image {
     color: white;
+}
+
+.sign-up-btn {
+    width: 100px;
+    height: 28px;
+    border-radius: 4px;
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    border: none;
 }
