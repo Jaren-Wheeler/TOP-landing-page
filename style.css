@@ -46,10 +46,11 @@ body {
 
 .about-section {
     background-color: #1F2937;
-    padding: 16px;
+    padding: 48px 16px 48px 16px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .about-text {
@@ -64,4 +65,11 @@ body {
 
 .about-text p {
     color: #bbbbbb;
+}
+
+.photo-placeholder {
+    width: 33%;
+    padding: 110px;
+    margin-right: 20%;
+    background-color: #bbbbbb; 
 }
