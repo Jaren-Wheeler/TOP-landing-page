@@ -148,3 +148,26 @@ body {
     align-self: end;
     margin-right: 27%;
 }
+
+/* Call to action section */
+
+.cta-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px
+}
+.cta-wrapper {
+    background-color: #3882F6;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+    padding: 16px;
+    gap: 24px;
+}
+
+.cta-text {
+    color: white;
+}
