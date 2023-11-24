@@ -155,7 +155,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px
+    padding: 100px 0 100px 0;
 }
 .cta-wrapper {
     background-color: #3882F6;
@@ -171,3 +171,13 @@ body {
 .cta-text {
     color: white;
 }
+
+/* Footer section styling */
+
+.footer {
+    background-color: #1F2937;
+    color: rgb(121, 121, 121);
+    text-align: center;
+    padding: 32px;
+}
+
