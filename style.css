@@ -46,11 +46,10 @@ body {
 
 .about-section {
     background-color: #1F2937;
-    padding: 48px 16px 48px 16px;
+    padding: 5% 16px 8% 16px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .about-text {
@@ -93,6 +92,9 @@ body {
 
 /* Information section styling */
 
+.info-section {
+    margin-bottom: 7%;
+}
 .info-header {
     font-size: 32px;
     font-weight: bold;
