@@ -163,15 +163,34 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 70%;
     padding: 16px;
-    gap: 24px;
+    width: 70%;
 }
 
-.cta-text {
+.cta-text{
+    padding: 24px 0 16px 0;
+}
+.cta-title {
     color: white;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 0;
 }
 
+.cta-text p {
+    color: lightgray;
+    margin-top: 0;
+}
+
+.cta-signup-btn {
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 6px;
+    background-color: #3882F6;
+    width: 100px;
+    padding: 4px;
+}
 /* Footer section styling */
 
 .footer {
