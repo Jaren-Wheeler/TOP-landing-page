@@ -104,10 +104,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 100px;
 }
+
 .img-1 , .img-2, .img-3, .img-4 {
     border-style: solid;
-    border-color: blue;
+    border-color: #3882F6;
     border-radius: 16px;
     width: 10%;
     height: 0;
@@ -115,5 +117,9 @@ body {
     margin: 16px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    gap: 160px;
+}
+
+.caption {
+    text-align: center;
 }
